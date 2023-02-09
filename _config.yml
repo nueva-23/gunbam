@@ -16,9 +16,9 @@ theme: jekyll-agency
 url    : "https://nueva-23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/gunbam" # the subpath of your site, e.g. /blog  #단 배포전 테스트 용도로 코드를 수정할 때는 빈칸으로 남겨둡니다. 이 부분은 배포할 때만 수정합니다.
 
-title      : 군밤 리미티드ver1
+title      : 군밤 리미티드ver2
 email      : 6586814@gmail.com #this is also the email contact forms will go to
-description: "맛있는 겨울간식ver1"
+description: "맛있는 겨울간식ver2"
 author     : 군밤 대표
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg

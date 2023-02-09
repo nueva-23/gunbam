@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 맛있는 겨울간식ver1
+    title: 맛있는 겨울간식ver2
     text: 다양하고 따뜻하고 저렴하다!
     button: 단 노하우가 있어야 함
     buttonlink: "#services"
